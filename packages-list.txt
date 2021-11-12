@@ -1,0 +1,16 @@
+biosdevname
+chrony
+dosfstools
+efibootmgr
+efivar
+gdisk
+ipmitool
+hdparm
+lshw
+mdadm
+nvme-cli
+parted
+psmisc
+qemu-img
+util-linux
+systemd-udev
